@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahipal Singh</h1>
 <h3 align="center">Senior Frontend Software Engineer</h3>
 
-<img
-    align="right"
-    alt="coding"
-    width="400"
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"
-/>
-
 - 🔭 I’m currently working on [Buddy Chat](https://buddycchat.netlify.app/) - 🌱
 I’m currently learning **React Native, AWS** - 👨‍💻 All of my projects are
 available at [https://mahipalinfo.vercel.app/](https://mahipalinfo.vercel.app/)
@@ -291,16 +284,3 @@ available at [https://mahipalinfo.vercel.app/](https://mahipalinfo.vercel.app/)
         />
     </a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/=">
-        <img
-            align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-            height="50"
-            width="210"
-            alt="="
-    /></a>
-</p>
-<br /><br />
