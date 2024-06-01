@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahipal Singh</h1>
 <h3 align="center">Senior Frontend Software Engineer</h3>
+<br /><br /><br />
 
 - 🔭 I’m currently working on [Buddy Chat](https://buddycchat.netlify.app/) - 🌱
 I’m currently learning **React Native, AWS** - 👨‍💻 All of my projects are
